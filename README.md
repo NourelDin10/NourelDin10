@@ -52,10 +52,12 @@ I'm a DevOps Engineer with hands-on experience in Kubernetes, AWS, CI/CD pipelin
 
 ---
 
-<!-- Add certifications, major projects, or achievements here if available.
-## 📜 Certifications
-- AWS Certified Solutions Architect – Associate
-- Certified Kubernetes Administrator (CKA)
+<-- Add certifications, major projects, or achievements here if available.
+📜 Certifications
+- AWS Certified Cloud Practitione
+- Microsoft Azure Fundamentals (AZ-900)
+- CCNA: Switching, Routing, and Wireless | Cisco
+- JNCIA-Junos | Juniper Networks Certified Associate
 -->
 
 <!--
